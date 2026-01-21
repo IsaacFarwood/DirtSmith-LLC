@@ -1,7 +1,8 @@
 index.html
 App.tsx
 vite.config.ts
-package.json
+services/geminiServives.ts
+vite.config.ts
 {
   "name": "dirtsmith-llc",
   "private": true,
