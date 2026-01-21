@@ -1,6 +1,7 @@
 index.html
 App.tsx
 vite.config.ts
+package.json
 {
   "name": "dirtsmith-llc",
   "private": true,
