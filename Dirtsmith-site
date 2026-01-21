@@ -1,28 +1,11 @@
 index.html
-App.tsx
+check_circle
+services/geminiService.ts
+check_circle
 vite.config.ts
-services/geminiServives.ts
-vite.config.ts
-{
-  "name": "dirtsmith-llc",
-  "private": true,
-  "version": "1.0.0",
-  "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
-  "dependencies": {
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "lucide-react": "^0.462.0",
-    "@google/genai": "^0.21.0"
-  },
-  "devDependencies": {
-    "@types/react": "^19.0.0",
-    "@types/react-dom": "^19.0.0",
-    "vite": "^6.0.0",
-    "typescript": "^5.7.0"
-  }
-}
+check_circle
+package.json
+check_circle
+metadata.json
+check_circle
+vercel.json
