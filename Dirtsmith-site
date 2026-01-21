@@ -1,14 +1,4 @@
-index.html
-check_circle
-services/geminiService.ts
-check_circle
-vite.config.ts
-check_circle
-package.json
-check_circle
-metadata.json
-check_circle
-vercel.json
+
 {
   "name": "dirtsmith-llc",
   "private": true,
